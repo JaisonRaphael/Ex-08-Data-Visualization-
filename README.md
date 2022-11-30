@@ -18,9 +18,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 # PROGRAM
-PROGRAM DEVELOPED BY : SHRRUTHILAYA G
-
-REGISTER NUMBER : 212221230097
+PROGRAM DEVELOPED BY : Jaison Raphael.V
+REGISTER NUMBER : 212221230038
 ```
 import pandas as pd
 import numpy as np
